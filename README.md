@@ -1,2 +1,2 @@
 # Kimsj912.github.io
-test for deployment
+make it for repositories deployment
